@@ -80,4 +80,6 @@ public class NewsData {
         public void setCategoryName(String categoryName) {
                 this.categoryName = categoryName;
         }
+
+
 }
